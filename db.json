@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Read SitePoint article",
-      "complete": false
+      "complete": true
     },
     {
       "title": "Clean inbox",
@@ -17,13 +17,23 @@
     },
     {
       "title": "Making Calls",
-      "complete": false,
+      "complete": true,
       "id": 4
     },
     {
       "title": "Meeting @ Norfolk Hotel",
-      "complete": false,
+      "complete": true,
       "id": 5
+    },
+    {
+      "title": "Going home",
+      "complete": false,
+      "id": 6
+    },
+    {
+      "title": "Another Item",
+      "complete": false,
+      "id": 7
     }
   ]
 }
